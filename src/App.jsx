@@ -6,10 +6,14 @@ import Work from "./components/Work/Work"
 import Education from "./components/Education/Education"
 import Contact from "./components/Contact/Contact"
 import Footer from "./components/Footer/Footer"
+import BlurBlob from "./BlurBlob"
 
 const App = () => {
   return (
     <div className="bg-[#050414]">
+
+      <BlurBlob position={{top: '35%', left: '20%'}} size= {{width:'30%', height:'40%'}}></BlurBlob>
+
       <div className="absolute inset-0 
   [background-image:linear-gradient(to_right,_#4f4f4f2e_1px,_transparent_1px),linear-gradient(to_bottom,_#4f4f4f2e_1px,_transparent_1px)] 
   [background-size:14px_24px] 
