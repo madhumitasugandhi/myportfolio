@@ -1,0 +1,37 @@
+import React from "react"
+import Navbar from "./components/Navbar/Navbar"
+import About from "./components/About/About"
+import Skills from "./components/Skills/Skills"
+import Work from "./components/Work/Work"
+import Education from "./components/Education/Education"
+import Contact from "./components/Contact/Contact"
+import Footer from "./components/Footer/Footer"
+
+const App = () => {
+  return (
+    <div className="bg-[#050414]">
+      <div className="absolute inset-0 
+  [background-image:linear-gradient(to_right,_#4f4f4f2e_1px,_transparent_1px),linear-gradient(to_bottom,_#4f4f4f2e_1px,_transparent_1px)] 
+  [background-size:14px_24px] 
+  [mask-image:radial-gradient(ellipse_60%_50%_at_50%_0%,_black_70%,_transparent_100%)] 
+  [mask-composite:exclude] 
+  pointer-events-none
+  z-0
+">
+      </div>
+
+
+      <div className="relative pt-20">
+        <About />
+        <Navbar />
+        <Contact />
+        <Footer />
+        <Skills />
+        <Work />
+        <Education />
+      </div>
+    </div>
+  )
+}
+
+export default App
