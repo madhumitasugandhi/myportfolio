@@ -115,7 +115,7 @@ export const SkillsInfo = [
         "Nature's Basket is an online grocery shopping website designed to provide users with a seamless and efficient shopping experience. The site includes a variety of pages and features to enhance usability and functionality.",
       image:natureBasket,
       tags: ["HTML", "CSS", "JavaScript",],
-      github: "https://github.com/madhumitasugandhi/icp8.0-javascript-group-project-3.",
+      github: "https://github.com/madhumitasugandhi/icp8.0-javascript-group-project-3",
       webapp: "https://naturesbasket.netlify.app/",
     },
     {

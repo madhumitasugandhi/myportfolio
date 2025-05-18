@@ -5,7 +5,7 @@ const Skills = () => {
   return (
     <section
       id="skills"
-      className="py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans bg-skills-gradient clip-path-custom"
+      className="py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans bg-skills-gradient clip-path-custom "
     >  <div className="text-center mb-8">
         <h2 className="text-3xl sm:text-4xl font-bold text-white">SKILLS</h2>
         <div className="w-24 h-1 bg-[#8245ec] mx-auto mt-2"></div>
@@ -23,8 +23,6 @@ const Skills = () => {
             <h3 className="text-2xl sm:text-3xl font-semibold text-gray-400 mb-4 text-center">
               {category.title}
             </h3>
-
-            {/* Skill Items - 3 per row on larger screens */}
             <Tilt
               key={category.title}
               tiltMaxAngleX={20}
