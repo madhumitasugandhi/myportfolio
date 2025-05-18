@@ -24,7 +24,7 @@ const About = () => {
               boxShadow: '0 0 2px #8245ec, 0 0 2px #8245ec, 0 0 40px #8245ec',
             }}
           >
-            DOWNLOAD RESUME
+            VIEW RESUME
           </a>
         </div>
         <div className="md:w-1/2 flex justify-around md:justify-end">

@@ -28,11 +28,11 @@ const App = () => {
       <div className="relative pt-20">
         <About />
         <Navbar />
-        <Contact />
         <Footer />
         <Skills />
         <Work />
         <Education />
+        <Contact />
       </div>
     </div>
   )
