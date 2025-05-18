@@ -30,7 +30,7 @@ const About = () => {
         <div className="md:w-1/2 flex justify-around md:justify-end">
             <img src={Profile}
             alt='Madhumita Sugandhi'
-             className="md:w-[400px] sm:w-[270px] rounded-full object-contain drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"/>
+             className="md:w-[300px] sm:w-[270px] rounded-full object-contain drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"/>
         </div>
       </div>
     </section>
