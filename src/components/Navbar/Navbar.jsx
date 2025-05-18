@@ -26,10 +26,11 @@ const Navbar = () => {
   const menuItems = [
     { id: "about", label: "About" },
     { id: "skills", label: "Skills" },
-    { id: "work", label: "Work" },
+    { id: "work", label: "Projects" },
     { id: "education", label: "Education" },
   ];
 
+  
   return (
     <nav className={`fixed top-10 w-full  z-50  transition duration-300 px-[vw] md:px-[7x] lg:px-[20vw] ${isScrolled ? "bg-[#050414] bg-opacity-50 backdrop-blur-md shodow-md" : "bg-transparent"
       }`}>

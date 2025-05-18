@@ -13,7 +13,7 @@ const About = () => {
             Hi, I am
           </h1>
           <h1 className='text-4xl sm:text-5xl md:text-6xl font-bold text-white mb-4 leading-tight'>
-            Madhumita Sugandhi
+            Madhumita Y. Sugandhi
           </h1>
           <p className='text-base sm:text-lg md:text-lg text-gray-400 mg-10 mt-9 leading-relaxed'>
             Enthusiastic Full Stack Developer with a Master’s in Computer Applications, skilled in building modern web applications using React, Node.js, Express, and MongoDB. Passionate about clean code and responsive design. Quick to learn, collaborative by nature, and eager to contribute to impactful development teams.

@@ -26,13 +26,13 @@ const App = () => {
 
 
       <div className="relative pt-20">
-        <About />
         <Navbar />
-        <Footer />
+        <About/>
         <Skills />
         <Work />
         <Education />
         <Contact />
+        <Footer/>
       </div>
     </div>
   )
