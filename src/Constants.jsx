@@ -1,49 +1,39 @@
-// Skills Section Logo's
-import htmlLogo from './assets/tech_logo/html.png';
-import cssLogo from './assets/tech_logo/css.png';
-import javascriptLogo from './assets/tech_logo/javascript.png';
-import reactjsLogo from './assets/tech_logo/reactjs.png';
-import nextjsLogo from './assets/tech_logo/nextjs.png';
-import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
-import bootstrapLogo from './assets/tech_logo/bootstrap.png';
-import nodejsLogo from './assets/tech_logo/nodejs.png';
-import expressjsLogo from './assets/tech_logo/express.png';
-import mongodbLogo from './assets/tech_logo/mongodb.png';
-import javaLogo from './assets/tech_logo/java.png';
-import gitLogo from './assets/tech_logo/git.png';
-import githubLogo from './assets/tech_logo/github.png';
-import vscodeLogo from './assets/tech_logo/vscode.png';
-import postmanLogo from './assets/tech_logo/postman.png';
-import netlifyLogo from './assets/tech_logo/netlify.png';
-import vercelLogo from './assets/tech_logo/vercel.png';
-
-
-// Education Section Logo's
+//skills
+import htmlLogo from './assets/html-logo.png';
+import cssLogo from './assets/css-logo.png';
+import javascriptLogo from './assets/js-logo.png';
+import reactjsLogo from './assets/reactjs-logo.jpg';
+import tailwindcssLogo from './assets/tailwind-logo.png';
+import bootstrapLogo from './assets/bootstrap-logo.png';
+import nodejsLogo from './assets/nodejs-logo.png';
+import expressjsLogo from './assets/expressjs-logo.png';
+import mongodbLogo from './assets/mongodb-logo.png';
+import javaLogo from './assets/java-logo.png';
+import gitLogo from './assets/git-logo.png';
+import githubLogo from './assets/github-logo.png';
+import vscodeLogo from './assets/vscode-logo.jpeg';
+import postmanLogo from './assets/postman-logo.png';
+import netlifyLogo from './/assets/netlify-logo.png';
+import vercelLogo from './assets/vercel-logo.jpeg';
+import cLogo from './assets/c-logo.png'
+import cppLogo from './assets/cpp-logo.jpeg'
+//project
+import natureBasket from './assets/nature-basket.png'
+import petnestLogo from './assets/petnest.png'
+import quickNote from './assets/quick-note.png'
+//education
 import VBMV from './assets/vbmv.jpg';
-import RLT from './assets/rlt.jpg';
-import TKV from './assets/tkv';
-
-// Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
-import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
-
+import RLT from './assets/rlt.jpeg';
+import TKV from './assets/tkv.jpg';
 
 export const SkillsInfo = [
   {
     title: 'Frontend',
     skills: [
-      { name: 'HTML', logo: htmlLogo },
+      { name: 'HTML', logo: htmlLogo},
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
-      { name: 'React JS', logo: reactjsLogo },
-      { name: 'Next JS', logo: nextjsLogo },
+      { name: 'React JS', logo:reactjsLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
       { name: 'Bootstrap', logo: bootstrapLogo },
     ],
@@ -108,7 +98,7 @@ export const SkillsInfo = [
     },
     {
       id: 3,
-      img: vpsLogo,
+      img: TKV,
       school: "TULSABAI KAWAL VIDYALAY, PATUR (AKOLA)",
       date: "Apr 2016 - March 2018",
       grade: "86.60%",
@@ -123,7 +113,7 @@ export const SkillsInfo = [
       title: "Nature's Basket Grocery Site",
       description:
         "Nature's Basket is an online grocery shopping website designed to provide users with a seamless and efficient shopping experience. The site includes a variety of pages and features to enhance usability and functionality.",
-      image: githubdetLogo,
+      image:natureBasket,
       tags: ["HTML", "CSS", "JavaScript",],
       github: "https://github.com/madhumitasugandhi/icp8.0-javascript-group-project-3.",
       webapp: "https://naturesbasket.netlify.app/",
@@ -133,7 +123,7 @@ export const SkillsInfo = [
       title: "ThePetNest Website",
       description:
         "In addition to adoption services, we provide detailed information on different breeds of cats and dogs. ",
-      image: csprepLogo,
+      image: petnestLogo,
       tags: ["HTML", "CSS"],
       github: "https://github.com/madhumitasugandhi/icp-8.0-html-css-group-project-2 ",
       webapp: " https://pet-adoptionn.onrender.com/",
@@ -143,7 +133,7 @@ export const SkillsInfo = [
       title: "Quick Note",
       description:
         "Quick Note is a fast, secure, and user-friendly application designed to streamline note-taking with a clean interface and seamless cloud synchronization. It enables users to efficiently add, view, and manage their notes, enhancing productivity and organization across devices.",
-      image: movierecLogo,
+      image: quickNote,
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/madhumitasugandhi/assignment43",
       webapp: "https://assignment43-tuy4.vercel.app/",
