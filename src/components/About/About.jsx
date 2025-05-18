@@ -7,6 +7,7 @@ const About = () => {
       className='py-4 px[7vw] md:px-[7vw] lg:px-[20vx] font-sans mt-16 md:mt-24 lg:mt-32'
     >
       <div className='flex flex-col-reverse md:flex-row justify-between items-center'>
+
         <div className='md:w-1/2 text-center md:text-left mt-8 md:mt-0'>
           <h1 className='text-3xl sm:text-5xl md:text-6xl font-bold text-white mb-2 leading-tight'>
             Hi, I am
@@ -29,7 +30,7 @@ const About = () => {
         <div className="md:w-1/2 flex justify-around md:justify-end">
             <img src={Profile}
             alt='Madhumita Sugandhi'
-             className="md:w-[400px] sm:w-[300px] rounded-full object-contain drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"/>
+             className="md:w-[400px] sm:w-[270px] rounded-full object-contain drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"/>
         </div>
       </div>
     </section>
