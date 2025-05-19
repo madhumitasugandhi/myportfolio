@@ -19,5 +19,6 @@ html {
     .clip-path-custom-2 {
         clip-path: polygon(0 0, 100% 0, 100% 98%, 25% 95%, 0 100%);
       }
+      
   }
   
