@@ -32,7 +32,8 @@ const Skills = () => {
               transitionSpeed={1000}
               gyroscope={true}
             >
-              <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 w-full">
+             <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 w-full md:text-xs md:gap-6 md:">
+
                 {category.skills.map((skill) => (
                   <div
                     key={skill.name}

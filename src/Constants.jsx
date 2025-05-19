@@ -75,7 +75,7 @@ export const SkillsInfo = [
       school: "VIDHYABHARTI MAHAVIDHYALAY, AMARAVATI",
       date: "Sept 2023 - July 2025",
       status:"Currently Pursuing",
-      desc: "I have completing my Master's degree (MCA) in Computer Applications from VIDHYABHARTI MAHAVIDHYALAY, AMARAVATI. During my time at VBMV, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at VBMV has been instrumental in shaping my technical abilities and professional growth.",
+      desc: "I am currently pursuing my Master's degree (MCA) in Computer Applications from Vidhyabharti Mahavidyalaya, Amravati. Throughout my time at VBMV, I have developed a strong foundation in programming, software development, and core computer science principles. My coursework includes subjects such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I have actively participated in workshops and technical events, which have further enriched my skills and practical knowledge. My experience at VBMV continues to play a vital role in shaping my technical abilities and supporting my professional development.",
       degree: "Master of Computer Applications - MCA",
     },
     {
