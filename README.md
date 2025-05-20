@@ -1,12 +1,33 @@
-# React + Vite
+# My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website where I showcase my projects, skills, and experience.
 
-Currently, two official plugins are available:
+🔗 [Live Site](https://myportfolio-two-flame-51.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React  
+- Next.js  
+- Tailwind CSS  
+- Deployed with Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## About Me
+
+I'm Madhumita Y. Sugandhi, a dedicated and enthusiastic web developer passionate about building engaging and accessible web applications. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My journey in tech has been fueled by curiosity and a commitment to continuous learning.
+
+Beyond coding, I am interested in collaborating on innovative projects, exploring new frameworks, and contributing to open-source communities. I believe in writing clean, efficient code and staying updated with the latest industry trends to deliver high-quality results. This portfolio showcases my skills, projects, and the technologies I work with regularly.
+
+## Screenshot
+
+![Portfolio Screenshot](./src/assets/Screenshot.png)
+
+## Contact
+
+I’m always excited to connect with like-minded professionals, potential employers, or anyone interested in technology and development. Whether you want to discuss a project, share ideas, or just say hello, don’t hesitate to reach out!
+
+Feel free to get in touch via email or connect with me on LinkedIn and GitHub. I’m open to freelance opportunities, collaborations, and networking.
+
+- **Name:** Madhumita Y. Sugandhi  
+- **Email:** madhumitasugandhi@gmail.com  
+- **LinkedIn:** [Madhumita Sugandhi](https://www.linkedin.com/in/madhumita-sugandhi-557aa22a9/)  
+- **GitHub:** [madhumitasugandhi](https://github.com/madhumitasugandhi)
