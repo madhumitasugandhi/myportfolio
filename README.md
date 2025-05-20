@@ -19,7 +19,7 @@ Beyond coding, I am interested in collaborating on innovative projects, explorin
 
 ## Screenshot
 
-![Portfolio Screenshot](./src/assets/Screenshot.png)
+![Portfolio Screenshot](src/assets/Screenshot.png)
 
 ## Contact
 
